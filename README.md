@@ -9,7 +9,14 @@
   - ⚙️ Predictive Maintenance: Machine learning model to minimize downtime in manufacturing operations.  
 
 
-### 📊 Most Used Languages
+### Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-jhaa&layout=compact&langs_count=8&hide=css,html&theme=tokyonight)
+
+
+
+### ⚡ GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=alok-jhaa&show_icons=true&theme=radical)
+
 
