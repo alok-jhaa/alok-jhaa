@@ -7,3 +7,9 @@
   - 🏬 AI for Retail Displays: Automated solution for evaluating retail display compliance and performance.  
   - 📊 Market Mix Modeling: Built for an FMCG giant to optimize marketing investments and sales impact.  
   - ⚙️ Predictive Maintenance: Machine learning model to minimize downtime in manufacturing operations.  
+
+
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alok-jhaa&layout=compact&langs_count=8&hide=css,html&theme=tokyonight)
+
