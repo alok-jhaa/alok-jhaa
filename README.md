@@ -10,13 +10,14 @@
 
 
 
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alok-jhaa&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-jhaa&layout=compact&theme=default" alt="Top Langs" height="165"/>
 </p>
 
 
-<h2 align="center">✨ Hello World 👋, I'm Alok ✨</h2>
+<h2 align="center">  Hello World 👋, I'm Alok  </h2>
 
 <p align="center">
   🚀 Senior Data Scientist | ⚡ Problem Solver 
@@ -27,12 +28,12 @@
 ### 🛠️ Tech Stack
 - 🐍 Python  
 - 🗄️ SQL  
-- 📊 Data Science & Machine Learning  
+- 📊 Data Science, Machine Learning, Computer Vision  
 - ☁️ Cloud & APIs  
 
 ---
 
-### ⚡ GitHub Stats (Current Year)
+### ⚡ GitHub Stats (2025)
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=alok-jhaa&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-jhaa&layout=compact&theme=default" alt="Top Langs" height="165"/>
@@ -40,7 +41,7 @@
 
 ---
 
-### 🔥 Contribution Streak (2025 Only)
+### 🔥 Contribution Streak (2025 )
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-jhaa&theme=default&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
 </p>
