@@ -16,4 +16,45 @@
 </p>
 
 
+<h2 align="center">✨ Hello World 👋, I'm Alok ✨</h2>
+
+<p align="center">
+  🚀 Senior Data Scientist | ⚡ Problem Solver | 📊 SQL & Python Enthusiast
+</p>
+
+---
+
+### 🛠️ Tech Stack
+- 🐍 Python  
+- 🗄️ SQL  
+- 📊 Data Science & Machine Learning  
+- ☁️ Cloud & APIs  
+
+---
+
+### ⚡ GitHub Stats (Current Year)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=alok-jhaa&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-jhaa&layout=compact&theme=default" alt="Top Langs" height="165"/>
+</p>
+
+---
+
+### 🔥 Contribution Streak (2025 Only)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-jhaa&theme=default&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📊 Contributions Overview (Custom 2025 Graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alok-jhaa&theme=default&custom_title=My%20Contributions%20(2025)" alt="GitHub Activity Graph"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/alok-jhaa/)  
+- 🌍 [Portfolio](https://byalok.com)  
 
