@@ -9,11 +9,14 @@
   - ⚙️ Predictive Maintenance: Machine learning model to minimize downtime in manufacturing operations.  
 
 
+![Profile Views](https://komarev.com/ghpvc/?username=alok-jhaa&style=flat-square&color=blue)
+
+### 💡 Dev Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok-jhaa&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-jhaa&layout=compact&theme=default" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-jhaa&layout=compact&theme=default" alt="Top Langs" height="185"/>
 </p>
 
 
