@@ -15,11 +15,6 @@
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-jhaa&layout=compact&theme=default" alt="Top Langs" height="185"/>
-</p>
-
-
 <h2 align="center">  Hello World 👋, I'm Alok  </h2>
 
 <p align="center">
@@ -60,5 +55,4 @@
 
 ### 🌐 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/alok-jhaa/)  
-- 🌍 [Portfolio](https://byalok.com)  
 
