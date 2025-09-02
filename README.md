@@ -12,7 +12,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=alok-jhaa&style=flat-square&color=blue)
 
 ### 💡 Dev Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Dev Quote"/>
+</p>
 
 
 <h2 align="center">  Hello World 👋, I'm Alok  </h2>
