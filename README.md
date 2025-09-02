@@ -19,7 +19,7 @@
 <h2 align="center">✨ Hello World 👋, I'm Alok ✨</h2>
 
 <p align="center">
-  🚀 Senior Data Scientist | ⚡ Problem Solver | 📊 SQL & Python Enthusiast
+  🚀 Senior Data Scientist | ⚡ Problem Solver 
 </p>
 
 ---
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 Contributions Overview (Custom 2025 Graph)
+### 📊 Contributions Overview 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=alok-jhaa&theme=default&custom_title=My%20Contributions%20(2025)" alt="GitHub Activity Graph"/>
 </p>
