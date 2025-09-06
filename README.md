@@ -5,7 +5,7 @@
 
   - 🛒 Shelf Share Analytics: Image analytics platform to measure SKU presence, shelf share, and promotional visibility across supermarkets and retail stores.  
   - 🏬 AI for Retail Displays: Automated solution for evaluating retail display compliance and performance.  
-  - 📊 Market Mix Modeling: Built for an FMCG giant to optimize marketing investments and sales impact.  
+  - 📊 Market Mix Modeling: Built for an FMCG giant in west africa to optimize marketing investments and sales impact.  
   - ⚙️ Predictive Maintenance: Machine learning model to minimize downtime in manufacturing operations.  
 
 
