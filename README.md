@@ -1,4 +1,4 @@
-<h2 align="center">  Hey 👋, Welcome to my GitHub Page!  </h2>
+<h2 align="center">  Hey 👋, Welcome to my GitHub Page.!  </h2>
 
 - I am Alok, a data science professional with 5+ years of experience working in domains like Machine Learning, Computer Vision, MLOps, and Data Analytics.  
 - Check out my GitHub repositories showcasing different use cases where I’ve applied my core skills, including:  
