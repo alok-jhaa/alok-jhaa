@@ -1,12 +1,9 @@
 <h2 align="center">  Hey 👋, Welcome to my GitHub Page.!  </h2>
 
-- I am Alok, a data science professional with 5+ years of experience working in domains like Machine Learning, Computer Vision, MLOps, and Data Analytics.  
-- Check out my GitHub repositories showcasing different use cases where I’ve applied my core skills, including:- 
-
-  - 🛒 Shelf Share Analytics: Image Analytics platform to measure SKU presence, shelf-share, and promotional visibility across supermarkets and retail stores.  
-  - 🏬 AI for Retail Displays: Automated solution for evaluating retail display compliance and performance.  
-  - 📊 Market Mix Modeling: Built for an FMCG giant in west africa to optimize marketing investments and sales impact.  
-  - ⚙️ Predictive Maintenance: Machine learning model to minimize downtime in manufacturing operations. 
+Data Science professional with ~5 years of experience designing, building, and deploying enterprise-scale solutions across machine learning, computer
+vision, and logistics/supply chain analytics. Built and shipped a full-stack logistics control tower benchmarked against Tier-1 TMS platforms (Oracle TMS,
+SAP TM), alongside predictive maintenance and computer-vision systems adopted by business stakeholders across FMCG, Retail, and FinTech. Strong
+end-to-end ownership across the AI lifecycle — from data engineering and model development to deployment and stakeholder-facing delivery.
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alok-jhaa&style=flat-square&color=blue)
